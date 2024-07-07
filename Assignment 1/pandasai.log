@@ -1,0 +1,20 @@
+2023-08-21 21:53:39 [INFO] Question: Make a plot of Greeces cases vs deaths?
+2023-08-21 21:53:39 [INFO] Running PandasAI with openai LLM...
+2023-08-21 21:53:39 [INFO] Prompt ID: df7b6acf-d914-4ec4-93eb-e3aab0e82f28
+2023-08-21 21:53:39 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-21 21:53:58 [INFO] Question: anal
+2023-08-21 21:53:58 [INFO] Running PandasAI with openai LLM...
+2023-08-21 21:53:58 [INFO] Prompt ID: a0d90b7f-3d06-448f-9336-b6e99d271340
+2023-08-21 21:53:58 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-21 21:54:03 [INFO] Question: analyze the dataframe
+2023-08-21 21:54:03 [INFO] Running PandasAI with openai LLM...
+2023-08-21 21:54:03 [INFO] Prompt ID: 95240451-470c-4861-977e-2aa0df76a51d
+2023-08-21 21:54:03 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-21 21:54:15 [INFO] Question: how many deaths has Greece had?
+2023-08-21 21:54:15 [INFO] Running PandasAI with openai LLM...
+2023-08-21 21:54:15 [INFO] Prompt ID: 45432688-e4d7-4189-991c-89000cfa501d
+2023-08-21 21:54:15 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2023-08-21 21:54:47 [INFO] Question: hi
+2023-08-21 21:54:47 [INFO] Running PandasAI with openai LLM...
+2023-08-21 21:54:47 [INFO] Prompt ID: 1732cdcd-9b5e-4fe3-b0dd-2c41bef9cce2
+2023-08-21 21:54:47 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
